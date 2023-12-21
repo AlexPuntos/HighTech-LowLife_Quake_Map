@@ -1,5 +1,5 @@
 # Low Life -- Quake Single Player Map
-A singleplayer map for Quake (1996) displaying general level design skills
+### A singleplayer map for Quake (1996) displaying general level design skills
 
 Information on the design process can be found here: https://github.com/AlexPuntos/LowLife_Quake_Map/wiki
 
